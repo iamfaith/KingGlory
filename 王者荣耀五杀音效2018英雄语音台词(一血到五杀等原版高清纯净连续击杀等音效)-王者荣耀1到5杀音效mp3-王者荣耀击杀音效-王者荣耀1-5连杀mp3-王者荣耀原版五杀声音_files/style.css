@@ -1,0 +1,28 @@
+body {
+    padding-bottom: 50px;
+}
+
+.col-md-12 {
+    margin-top: 10px;
+
+}
+
+.btn {
+    margin-bottom: 6px;
+}
+
+.list-title {
+    padding-left: 5px;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    height: 2em;
+    line-height: 2em;
+    font-size: 16px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
